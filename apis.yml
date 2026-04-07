@@ -1,7 +1,12 @@
 aid: thor-industries
-url: https://raw.githubusercontent.com/api-evangelist/thor-industries/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/thor-industries/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.thor-industries.com
+description: >-
+  Thor Industries is the sole owner of operating subsidiaries that, combined, represent
+  the world's largest manufacturer of recreational vehicles including travel trailers,
+  fifth wheels, and motorhomes.
