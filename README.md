@@ -1,33 +1,36 @@
-# THOR Industries (thor-industries)
-THOR Industries is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for THOR Industries.
+# Thor Industries
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/thor-industries/refs/heads/main/apis.yml)
+Thor Industries is the world's largest manufacturer of recreational vehicles, owning subsidiary brands including Airstream, Jayco, Heartland RV, and Keystone RV. Thor Industries operates primarily as a manufacturing company and does not publish a public developer API.
 
-## Scope
+**Website:** [https://www.thorindustries.com](https://www.thorindustries.com)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## No Public API
 
-## Tags:
+Thor Industries does not provide a public developer API. Dealer integrations and connected vehicle features are managed through subsidiary brands and OEM partnerships.
 
- - Fortune 500
+## Common Resources
 
-## Timestamps
+- **Website:** [https://www.thorindustries.com](https://www.thorindustries.com)
+- **Investor Relations:** [https://ir.thorindustries.com/](https://ir.thorindustries.com/)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+## JSON-LD
 
-## APIs
+| File | Description |
+|------|-------------|
+| [thor-industries-context.jsonld](json-ld/thor-industries-context.jsonld) | JSON-LD context for recreational vehicle domain vocabulary |
 
-No public APIs have been documented yet. Contributions welcome.
+## Vocabulary
 
-## Common Properties
-
-- [Website](https://www.thor-industries.com)
+| File | Description |
+|------|-------------|
+| [thor-industries-vocabulary.yml](vocabulary/thor-industries-vocabulary.yml) | Domain vocabulary for recreational vehicle industry terminology |
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
+
+---
+
+*Profiled by [API Evangelist](https://apievangelist.com) on 2026-05-03*

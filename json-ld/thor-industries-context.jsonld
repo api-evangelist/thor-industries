@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "thor": "https://www.thorindustries.com/vocab#",
+    "RecreationalVehicle": "Vehicle",
+    "Brand": "Brand",
+    "Manufacturer": "Organization",
+    "Product": "Product",
+    "TravelTrailer": "thor:TravelTrailer",
+    "FifthWheel": "thor:FifthWheel",
+    "Motorhome": "thor:Motorhome",
+    "brand": "brand",
+    "manufacturer": "manufacturer",
+    "modelYear": "vehicleModelDate",
+    "floorPlan": "thor:floorPlan",
+    "sleepCapacity": "thor:sleepCapacity",
+    "length": "thor:vehicleLength",
+    "weight": "weight",
+    "subsidiaryBrand": "subOrganization"
+  }
+}

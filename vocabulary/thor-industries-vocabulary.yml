@@ -1,0 +1,117 @@
+name: Thor Industries Vocabulary
+description: >-
+  Domain vocabulary for Thor Industries recreational vehicle manufacturing,
+  covering RV types, brands, specifications, and industry terminology.
+version: '1.0'
+created: '2026-05-03'
+modified: '2026-05-03'
+tags:
+  - Recreational Vehicles
+  - Manufacturing
+  - Automotive
+
+terms:
+  - term: Recreational Vehicle
+    definition: >-
+      A motor vehicle or trailer equipped with living accommodations designed
+      for recreational use, including travel trailers, fifth wheels, and motorhomes.
+    related:
+      - Travel Trailer
+      - Fifth Wheel
+      - Motorhome
+    tags:
+      - RV
+      - Manufacturing
+
+  - term: Travel Trailer
+    definition: >-
+      A towable RV without its own engine that attaches to a vehicle's
+      standard trailer hitch. Includes conventional trailers, hybrid trailers,
+      and expandable trailers.
+    related:
+      - Recreational Vehicle
+      - Towable
+    tags:
+      - RV
+      - Towable
+
+  - term: Fifth Wheel
+    definition: >-
+      A towable RV that connects to a specialized hitch mounted in the bed
+      of a pickup truck, providing greater stability and typically more
+      living space than conventional travel trailers.
+    related:
+      - Recreational Vehicle
+      - Towable
+    tags:
+      - RV
+      - Towable
+
+  - term: Motorhome
+    definition: >-
+      A self-propelled RV with a built-in engine and living space integrated
+      in the same vehicle. Includes Class A, Class B, and Class C motorhomes.
+    related:
+      - Recreational Vehicle
+      - Class A
+      - Class B
+      - Class C
+    tags:
+      - RV
+      - Motorhome
+
+  - term: Floor Plan
+    definition: >-
+      The interior layout configuration of an RV unit, specifying bedroom
+      arrangement, kitchen placement, bathroom location, and slide-out positions.
+    related:
+      - Recreational Vehicle
+      - Slide-Out
+    tags:
+      - RV
+      - Design
+
+  - term: Slide-Out
+    definition: >-
+      An expandable room section in an RV that extends outward when parked
+      to increase interior living space.
+    related:
+      - Floor Plan
+      - Recreational Vehicle
+    tags:
+      - RV
+      - Design
+
+  - term: Airstream
+    definition: >-
+      Thor Industries' premium subsidiary brand known for iconic aluminum
+      travel trailers and touring coaches with distinctive rounded design.
+    related:
+      - Thor Industries
+      - Travel Trailer
+    tags:
+      - Brand
+      - RV
+
+  - term: Jayco
+    definition: >-
+      Thor Industries' subsidiary brand manufacturing a wide range of
+      towable and motorized RVs known for quality family camping products.
+    related:
+      - Thor Industries
+      - Travel Trailer
+      - Motorhome
+    tags:
+      - Brand
+      - RV
+
+  - term: GVWR
+    definition: >-
+      Gross Vehicle Weight Rating - the maximum weight a vehicle is rated
+      to carry including its own weight and all cargo, passengers, and fluids.
+    related:
+      - Recreational Vehicle
+      - Specifications
+    tags:
+      - RV
+      - Specifications
