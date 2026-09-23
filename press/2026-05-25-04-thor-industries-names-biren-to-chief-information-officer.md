@@ -1,7 +1,9 @@
 ---
 title: THOR Industries Names Biren to Chief Information Officer
 url: https://rvbusiness.com/thor-industries-names-biren-to-chief-information-officer/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Thor Industries" press release artificial intelligence'
 position: 4
 source: serpapi-google

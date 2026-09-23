@@ -1,7 +1,9 @@
 ---
 title: Thor Industries Appoints Chief Information Officer, Shifts ...
 url: https://sgbonline.com/thor-industries-appoints-chief-information-officer-shifts-technology-reporting-structure/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Thor Industries" press release artificial intelligence'
 position: 3
 source: serpapi-google

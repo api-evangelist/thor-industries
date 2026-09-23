@@ -1,7 +1,9 @@
 ---
 title: THO THOR Industries, Inc. Stock Price & Overview
 url: https://seekingalpha.com/symbol/THO
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Thor Industries" press release artificial intelligence'
 position: 5
 source: serpapi-google
